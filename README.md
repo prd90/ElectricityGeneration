@@ -16,3 +16,5 @@ The app will educate children how electricity is generated from sources such as 
 2. We also wish to demonstrate a model for electricity generation using water turbines. We intend to use scientific formula such as found on: http://www.wvic.com/content/how_hydropower_works.cfm. We’re thinking of allowing player to adjust the parameters such as dam height etc. and see the corresponding impact on electricity generated.
  
 3. For Electricity generation using Solar panels, we can calculate electricity generated relative to sun’s altitude. We will include a day-night cycle and display the power generated at the end of the day. Player will be able to adjust the solar panel height for more efficiency.
+
+Hello World
